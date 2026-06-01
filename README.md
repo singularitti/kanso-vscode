@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌊 Kansō VSCode Theme 🌊</h1>
+  <h1>🌊 Kansō VSCode Theme Modified 🌊</h1>
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
 ## 📦 Installation
 
 1. Open **Extensions** in VS Code (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-2. Search for `Kanso Theme`
+2. Search for `Kanso Theme Modified`
 3. Click **Install**
 4. Go to **File > Preferences > Color Theme** and select one of the Kansō variants
 
@@ -90,6 +90,7 @@ The theme is inspired by the Kanagawa theme.
 
 - [rebelot](https://github.com/rebelot/kanso.nvim) for the original Kanagawa Neovim theme
 - [metapho-re](https://github.com/metapho-re/kanagawa-vscode-theme) for the VS Code theme template
+- [Webhooked](https://github.com/webhooked/kanso-vscode) for the original theme
 
 ## 📄 License
 
