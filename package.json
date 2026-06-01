@@ -26,15 +26,15 @@
       }
     ]
   },
-  "description": "A dark theme that invites focus, not attention. Inspired by the Kanagawa color theme.",
+  "description": "A few themes that invites focus, not attention. Inspired by the Kanagawa color theme.",
   "devDependencies": {
     "@vscode/vsce": "^3.2.1"
   },
-  "displayName": "Kanso Theme",
+  "displayName": "Kanso Theme Modified",
   "engines": {
     "vscode": "^1.77.0"
   },
-  "homepage": "https://github.com/webhooked/kanso-vscode",
+  "homepage": "https://github.com/singularitti/kanso-vscode",
   "icon": "icon.png",
   "keywords": [
     "kanso",
@@ -49,15 +49,15 @@
     "pearl"
   ],
   "license": "MIT",
-  "name": "kanso-theme",
-  "publisher": "Webhooked",
+  "name": "kanso-theme-modified",
+  "publisher": "singularitti",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webhooked/kanso-vscode"
+    "url": "https://github.com/singularitti/kanso-vscode"
   },
   "scripts": {
     "package": "vsce package",
     "publish": "vsce publish"
   },
-  "version": "0.2.3"
+  "version": "0.2.4"
 }
