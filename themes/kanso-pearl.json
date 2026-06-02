@@ -142,7 +142,7 @@
 		"statusBarItem.remoteForeground": "#22262D",
 		"tab.activeBackground": "#f2f1ef",
 		"tab.inactiveBackground": "#f2f1ef",
-		"tab.activeBorderTop": "#22262D",
+		"tab.activeBorderTop": "#624C8350",
 		"tab.activeBorder": "#f2f1ef",
 		"tab.border": "#f2f1ef",
 		"tab.activeForeground": "#22262D",
